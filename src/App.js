@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <Counter stateVariable ={count} setModifierfunction={setCount}/>       
+            <Counter stateVariable ={count} setCountModifierfunction={setCount}/>       
     </div>
   );
 }

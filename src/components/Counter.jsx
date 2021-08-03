@@ -1,6 +1,6 @@
 function Counter(props) {
     
-    props.setModifierfunction(1)
+    props.setCountModifierfunction(1)
 
     return (
         <div>
